@@ -1,8 +1,6 @@
 # Fiber-Subtype-Quantification
 Automated classification of muscle fibers (GFP/RFP) using Python &amp; skimage
 
-
-This program is written by Ruixin Xu (Stony Brook University), Xuejian Huang (University of Buffalo) and ChatGPT (THIS IS NOT A PERFECT PROGRAM, STILL UPDATING)
 # Automated Muscle Fiber Classification (GFP/RFP)
 
 This repository contains a Python-based pipeline for automated quantification and classification of muscle fiber subtypes from immunofluorescence images (e.g., GFP, RFP, Laminin).  
@@ -30,3 +28,17 @@ The analysis was developed during my research at Stony Brook University (Piscont
 
 ## 🧩 Dependencies
 Python ≥ 3.9  
+
+---
+
+## 🧩 Acknowledgements
+
+This project, *Fiber Subtype Quantification*, was developed by **Ruixin (Richard) Xu**  
+(Stony Brook University) & Xuejian Huang (University of Buffalo).  
+
+I sincerely thank **Dr. Dada Pisconti** for her data, supervision, mentorship, and 
+support throughout the development of this work.
+
+If you use or adapt this code, please kindly cite or acknowledge this repository:
+> Xu, R. (2025). *Fiber Subtype Quantification (Python Pipeline)*.  
+> Stony Brook University. GitHub Repository: [https://github.com/richardxu-sbu/Fiber-Subtype-Quantification](https://github.com/richardxu-sbu/Fiber-Subtype-Quantification)
