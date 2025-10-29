@@ -31,14 +31,39 @@ Python ≥ 3.9
 
 ---
 
-## 🧩 Acknowledgements
+---
 
-This project, *Fiber Subtype Quantification*, was developed by **Ruixin (Richard) Xu**  
-(Stony Brook University) & Xuejian Huang (University of Buffalo).  
+## 🧩 Authors
 
-I sincerely thank **Dr. Dada Pisconti** for her data, supervision, mentorship, and 
-support throughout the development of this work.
+- **Ruixin (Richard) Xu** — Stony Brook University, Department of Pathology  
+- **Xuejian Huang** — University at Buffalo, Department of Pharmacology and Toxicology  
 
-If you use or adapt this code, please kindly cite or acknowledge this repository:
-> Xu, R. (2025). *Fiber Subtype Quantification (Python Pipeline)*.  
-> Stony Brook University. GitHub Repository: [https://github.com/richardxu-sbu/Fiber-Subtype-Quantification](https://github.com/richardxu-sbu/Fiber-Subtype-Quantification)
+---
+
+## 🧠 Acknowledgements
+
+This project, *Fiber Subtype Quantification*, was developed by Ruixin Xu and Xuejian Huang  
+under the supervision of **Dr. Dada Pisconti** (Department of Biochemistry & Cell Biology, Stony Brook University).  
+
+We sincerely thank Dr. Pisconti for her data, mentorship, guidance, and support  
+throughout the development of this work.
+
+---
+
+## 📚 Citation
+
+If you use or adapt this code in your research, please cite or acknowledge this repository:
+
+> Xu, R., & Huang, X. (2025). *Fiber Subtype Quantification (Python Pipeline)*.  
+> Pisconti Laboratory, Department of Biochemistry & Cell Biology, Stony Brook University.  
+> GitHub Repository: [https://github.com/richardxu-sbu/Fiber-Subtype-Quantification](https://github.com/richardxu-sbu/Fiber-Subtype-Quantification)
+
+---
+
+## 🪪 License
+
+This project is distributed under the [MIT License](./LICENSE).  
+You are free to use, modify, and distribute the code, provided that proper credit is given  
+to the authors and supervisors listed above.
+
+---
