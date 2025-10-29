@@ -35,8 +35,8 @@ Python ≥ 3.9
 
 ## 🧩 Authors
 
-- **Ruixin (Richard) Xu** — Stony Brook University, Department of Pathology  
-- **Xuejian Huang** — University at Buffalo, Department of Pharmacology and Toxicology  
+- **Ruixin (Richard) Xu** — Stony Brook University, Department of Biochemistry  
+- **Xuejian Huang** — University at Buffalo, Department of Biochemistry  
 
 ---
 
