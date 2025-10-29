@@ -2,7 +2,7 @@
 Automated classification of muscle fibers (GFP/RFP) using Python &amp; skimage
 
 
-This program is written by myself and ChatGPT (THIS IS NOT A PERFECT PROGRAM, STILL UPDATING)
+This program is written by Ruixin Xu (Stony Brook University), Xuejian Huang (University of Buffalo) and ChatGPT (THIS IS NOT A PERFECT PROGRAM, STILL UPDATING)
 # Automated Muscle Fiber Classification (GFP/RFP)
 
 This repository contains a Python-based pipeline for automated quantification and classification of muscle fiber subtypes from immunofluorescence images (e.g., GFP, RFP, Laminin).  
