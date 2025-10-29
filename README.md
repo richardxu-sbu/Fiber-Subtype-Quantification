@@ -1,4 +1,4 @@
-# fiber-subtype-quantification
+# Fiber-Subtype-Quantification
 Automated classification of muscle fibers (GFP/RFP) using Python &amp; skimage
 
 
